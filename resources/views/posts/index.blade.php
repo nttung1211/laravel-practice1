@@ -15,7 +15,7 @@
 		<div class='row'>
 			@foreach($posts as $post)
 			<div class='col-lg-6 my-2'>
-				<div class='shadow bg-white p-3'>
+				<div class='shadow-sm bg-white p-3'>
 					<h2 class='mb-3'>{{ $post->title }}</h2>
 					<img src='{{ Storage::disk(env('STORAGE'))->url($post->image_url) }}' alt='image' class='img-fluid'>
 					<form action='{{ route('posts.delete', $post->id) }}' method='post'>
