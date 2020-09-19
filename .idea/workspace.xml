@@ -150,6 +150,7 @@
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="database.data.extractors.current.export.id" value="Comma-separated (CSV)_id" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -180,7 +181,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600420649680</updated>
-      <workItem from="1600420650761" duration="23809000" />
+      <workItem from="1600420650761" duration="24723000" />
     </task>
     <servers />
   </component>
@@ -192,10 +193,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="555" y="316" key="#File_Watchers/0.0.1440.900@0.0.1440.900" timestamp="1600485305755" />
-    <state x="320" y="109" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600421993757">
+    <state x="219" y="149" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600514810646">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="109" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1600421993757" />
+    <state x="219" y="149" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1600514810646" />
     <state x="392" y="155" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1600511651445">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -228,9 +229,9 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="300" y="200" key="run.anything.popup/0.0.1440.900@0.0.1440.900" timestamp="1600511374414" />
-    <state x="299" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1600514044875">
+    <state x="299" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1600514879086">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="299" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1600514044875" />
+    <state x="299" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1600514879086" />
   </component>
 </project>
